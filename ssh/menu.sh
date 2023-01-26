@@ -8,7 +8,6 @@ wh="\033[0m"
 
 echo -e "$y-------------------------------------------------------------$wh"
 echo -e "$y             Telegram : @free_HTTPCustom $wh"
-echo -e "$y           Premium Auto Script By @free_HTTPCustom $wh"
 echo -e "$y-------------------------------------------------------------$wh"
 echo ""
 echo -e "$y SSH & OpenVPN $wh"
